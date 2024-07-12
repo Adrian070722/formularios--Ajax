@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    background: blue;
+    width: 230vh;
+    height: 230vh;
+
+}
+
+.input_form {
+    display: block;
+    border-radius: 20px;
+    border: 1px solid #33333333;
+    padding: 10px 5px;
+    margin: 1rem;
+    box-shadow: 5px 5px 0 #555555;
+
+}
+
